@@ -1,5 +1,5 @@
 const Twit = require("twit");
-require("dotenv").config();
+
 var config = require("./config");
 const T = new Twit(config);
 
