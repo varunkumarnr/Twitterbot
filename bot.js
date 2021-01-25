@@ -24,6 +24,6 @@ const retweetLatest = () => {
   });
 };
 retweetLatest();
-setInterval(retweetLatest, 1000 * 60 * 5);
+setInterval(retweetLatest, 1000 * 60 * 10);
 
 console.log("running");
