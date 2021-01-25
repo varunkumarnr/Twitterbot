@@ -1,12 +1,12 @@
-### twitter bot
+# twitter bot
 
-# Retweets the latest tweet using the "#100daysofcode" hashtag. It attempts to retweet once per five minutes. You can always change the # to fit your needs.
+##### Retweets the latest tweet using the "#100daysofcode" hashtag. It attempts to retweet once per five minutes. You can always change the # to fit your needs.
 
 ## How to make your own?
 
 1. fork this repository
 
-2. download
+2. download the repository
 3. go to terminal
    > npm i
 
